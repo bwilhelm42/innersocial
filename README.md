@@ -1,4 +1,3 @@
 # InnerSocial
 
-Instructions will be written later
-
+Instructions will be written later. 
